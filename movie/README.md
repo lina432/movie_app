@@ -1,17 +1,22 @@
-# movie
+# Movie Finder App 🎬
 
-A new Flutter project.
+A modern and responsive Movie Application that allows users to search for their favorite movies, explore detailed plot summaries, and view key information fetched in real-time from a movie database API.
 
-## Getting Started
+## 🚀 Features
+* **Live Movie Search:** Search for any movie by its title instantly.
 
-This project is a starting point for a Flutter application.
+* **Detailed Movie Insights:** View movie plots, storylines, and detailed descriptions.
 
-A few resources to get you started if this is your first Flutter project:
+* **Responsive UI/UX:** Clean, user-friendly, and fully responsive design across all devices.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Real-time Data:** Seamless integration with a REST API for up-to-date movie information.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Tech Stack & Tools
+* **Frontend:** [ Flutter]
+
+* **API Integration:** [OMDb API]
+
+## 📸 Screenshots
+
+
