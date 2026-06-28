@@ -17,6 +17,6 @@ A modern and responsive Movie Application that allows users to search for their 
 
 * **API Integration:** [OMDb API]
 
-## 📸 Screenshots
+
 
 
